@@ -1,4 +1,4 @@
-# Business Documentation
+# Neo4j tasks
 Tasks with neo4j database on theme "Books and their rating" 
 
 ## Getting Started
